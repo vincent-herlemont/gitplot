@@ -1,6 +1,6 @@
 # GitPlot
 
-
+Display git activities by days, months and hours.
 
 # Run
 
