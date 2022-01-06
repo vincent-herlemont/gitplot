@@ -1,1 +1,7 @@
 .idea/
+dist/
+src/*.egg-info
+share/
+lib/
+lib64
+bin/
